@@ -1,4 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <toc>
-
+    <section title="Глава первая. Роскошество">
+        <chapter file="roskoshestvo/vvedenie.xml">Введение</chapter>
+        <chapter file="roskoshestvo/roskoshestvo-kak-termin.xml">Роскошество как термин</chapter>
+        <chapter file="roskoshestvo/specialnoe-znachenie.xml">Специальное значение</chapter>
+        <chapter file="roskoshestvo/poricanie-roskoshestva-v-Korane.xml">Порицание роскошества в Коране</chapter>
+        <chapter file="roskoshestvo/poricanie-roskoshestva-v-Sunne-Proroka.xml">Порицание роскошества в Сунне Пророка <sas/></chapter>
+        <chapter file="roskoshestvo/ne-radujtes-o-roskoshestvujushie.xml">Не радуйтесь, о роскошествующие!</chapter>
+        <chapter file="roskoshestvo/roskoshestvo-i-bogatstvo-nerazdelimi.xml">Роскошество и богатство неразделимы?</chapter>
+        <chapter file="roskoshestvo/sovremennie-proyavleniya-roskoshestva.xml">Современные проявления роскошества</chapter>
+        <chapter file="roskoshestvo/prichini-roskoshestva.xml">Причины роскошества</chapter>
+        <chapter file="roskoshestvo/vliyanie-roskoshi-na-serdce.xml">Влияние роскоши на сердце</chapter>
+        <chapter file="roskoshestvo/kak-borotsya-s-roskoshestvom.xml">Как бороться с роскошеством?</chapter>
+        <chapter file="roskoshestvo/zakluchenie.xml">Заключение</chapter>
+        <chapter file="roskoshestvo/proverte-sebya.xml">Проверьте себя</chapter>
+    </section>
 </toc>
